@@ -14,3 +14,4 @@ Convertendo imagens coloridas para preto e branco com threads
 4. A imagem será convertida em tons de cinza com threads e salva como `imagem_pb.jpg`.
 5. Use `files.download("/content/imagem_pb.jpg")` para baixar a imagem gerada.
 
+![Gráfico de comparação](grafico_ex03.png)
